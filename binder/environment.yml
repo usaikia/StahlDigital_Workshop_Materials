@@ -1,1 +1,22 @@
-
+channels:
+- conda-forge
+dependencies:
+- python =3.11
+- jupyterlab
+- ipywidgets
+- nglview
+- pyiron
+- pyiron_base
+- pyiron_atomistics
+- pyiron_continuum =0.0.9
+- pyiron-data
+- iprpy-data
+- lammps
+- sqsgenerator
+- damask =3.0.0b
+- openblas
+- seaborn
+- pip:
+  - dsms-sdk==1.4.0rc11
+  - data2rdf==2.0.0rc9
+  - python-dotenv
