@@ -1,6 +1,6 @@
 # Workshop Materials: StahlDigital Meets Industries
 
-In this repository you will find the jupyter notebooks from our workshop `StahlDigital Meets Industries` organized by our project [StahlDigital](https://material-digital.de/project/6). The notebooks explains how to run simulation workflows from atomistic to continuum scale. The notebooks are located inside the folder `00_pyiron_damask_tutorial/`
+In this repository you will find the jupyter notebooks from our workshop `StahlDigital Meet Industries` organized by our project [StahlDigital](https://material-digital.de/project/6). The notebooks explains how to run simulation workflows from atomistic to continuum scale. The notebooks are located inside the folder `00_pyiron_damask_tutorial/`
 
 Here is a short description of the notebooks:
 - Notebook 1 (`01_introduction_to_pyiron.ipynb`): General introduction to [Pyiron](https://pyiron.org/).
